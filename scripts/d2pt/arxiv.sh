@@ -1,0 +1,1 @@
+python main.py --dataset arxiv --T 10 --alpha 0.01 --epochs 5000 --hidden 1024 --lr 0.005 --weight_decay 0.0005 --lambda_pa 5.0 --lambda_ce_aug 0.5 --num_neighbor 10 --batch_size 1024 --use_bn --missing_link 0.5 --missing_feature 0.5 --ogb_train_ratio 0.02 
