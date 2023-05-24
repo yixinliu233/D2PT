@@ -1,4 +1,4 @@
-# D^2^PT
+# D$^2$PT
 This is the source code of KDD'23 paper "Learning Strong Graph Neural Networks with Weak Information".
 
 ![The proposed framework](framework.png)
